@@ -1273,7 +1273,7 @@ We welcome contributions from the community! This project is part of the [Intuex
 - Update documentation as needed
 - Be respectful and constructive
 
-For more details, see the [Intuex Contributing Guidelines](https://github.com/Intuex/.github/blob/main/CONTRIBUTING.md).
+For more details, see the [Intuex Contributing Guidelines](https://github.com/Intuex/0.1-License/blob/main/CONTRIBUTING.md).
 
 ### Types of Contributions Welcome
 
@@ -1289,7 +1289,7 @@ For more details, see the [Intuex Contributing Guidelines](https://github.com/In
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Intuex0.1 License - see the [LICENSE](https://github.com/Intuex/0.1-License/blob/main/LICENSE.md) file for details.
 
 ---
 
@@ -1440,9 +1440,9 @@ This project is maintained by the [**Intuex**](https://github.com/Intuex) organi
 ## 💬 Community & Support
 
 ### Get Help
-- 🐛 [Report a Bug](https://github.com/Ansh-droid-glitch/GPTArm/issues)
-- 💡 [Request a Feature](https://github.com/Ansh-droid-glitch/GPTArm/issues)
-- 💬 [Join Discussions](https://github.com/Ansh-droid-glitch/GPTArm/discussions)
+- 🐛 [Report a Bug](https://github.com/Intuex/GPTArm/issues)
+- 💡 [Request a Feature](https://github.com/Intuex/GPTArm/issues)
+- 💬 [Join Discussions](https://github.com/Intuex/GPTArm/discussions)
 
 ### Stay Updated
 - ⭐ Star this repository to follow updates
@@ -1454,21 +1454,21 @@ Made something cool with this project? We'd love to see it!
 - Tag us on social media
 - Submit a pull request with your modifications
 - Share photos/videos in the discussions
-
+ 
 ---
 
 ## 📊 Project Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Ansh-droid-glitch/GPTArm?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/Ansh-droid-glitch/GPTArm?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/watchers/Ansh-droid-glitch/GPTArm?style=social" alt="Watchers">
+  <img src="https://img.shields.io/github/stars/Intuex/GPTArm?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Intuex/GPTArm?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/watchers/Intuex/GPTArm?style=social" alt="Watchers">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues/Ansh-droid-glitch/GPTArm" alt="Issues">
-  <img src="https://img.shields.io/github/issues-pr/Ansh-droid-glitch/GPTArm" alt="Pull Requests">
-  <img src="https://img.shields.io/github/last-commit/Ansh-droid-glitch/GPTArm" alt="Last Commit">
+  <img src="https://img.shields.io/github/issues/Intuex/GPTArm" alt="Issues">
+  <img src="https://img.shields.io/github/issues-pr/Intuex/GPTArm" alt="Pull Requests">
+  <img src="https://img.shields.io/github/last-commit/Intuex/GPTArm" alt="Last Commit">
 </p>
 
 ---
